@@ -16,3 +16,15 @@ body {
     justify-content: space-between;
 }
 
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
+
+section {
+    /* Remove margin-top and add any other styles you need */
+}
+
+
